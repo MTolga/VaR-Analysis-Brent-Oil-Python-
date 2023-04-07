@@ -8,4 +8,6 @@ To calculate VaR, the code first calculates daily returns by taking the percenta
 
 Finally, the code prints the VaR and plots it along with the daily returns. The plot helps visualize the distribution of returns and how the VaR relates to it over time. If the returns fall below the VaR line, it suggests that the investment is underperforming and may pose a risk.
 
-The Excel file also represents the VaR analysis for Brent oil using historical simulation and MonteCarlo simulation models.
+The Excel file also represents the VaR analysis for Brent oil using historical simulation and MonteCarlo simulation models. 
+
+Both models take into account daily P&Ls and calculates given confidential levels.
